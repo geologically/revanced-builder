@@ -2,8 +2,8 @@ Music: 8.05.51
 Music-Anddea: 8.05.51  
 Photos: 7.31.0.763184430  
 Reddit-Anddea: 2025.12.1  
-Spotify: 9.0.46.493  
-Spotify-Anddea: 9.0.46.493  
+Spotify: 9.0.48.380  
+Spotify-Anddea: 9.0.48.380  
 YouTube: 20.12.46  
 YouTube-Anddea: 19.47.53  
 
