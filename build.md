@@ -1,6 +1,6 @@
 Music: 8.05.51  
 Music-Anddea: 8.05.51  
-Photos: 7.30.0.761213354  
+Photos: 7.31.0.763184430  
 Reddit-Anddea: 2025.12.1  
 Spotify: 9.0.46.493  
 Spotify-Anddea: 9.0.46.493  
@@ -13,5 +13,5 @@ Patches: anddea/patches-3.9.0.rvp
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.24.0.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.24.0)  
+Patches: revanced/patches-5.25.0.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.25.0)  
