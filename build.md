@@ -1,6 +1,6 @@
 Music: 8.05.51  
 Photos: 7.35.0.774533729  
-Spotify: 9.0.56.106  
+Spotify: 9.0.58.564  
 YouTube: 20.13.41  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
