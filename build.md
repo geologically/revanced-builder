@@ -1,4 +1,4 @@
-YouTube-Anddea: 19.47.53  
+Spotify-Anddea: 9.0.64.586  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
