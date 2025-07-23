@@ -4,8 +4,8 @@ Music-Anddea (arm64-v8a): 8.12.53
 Music-Anddea (arm-v7a): 8.12.53  
 Music-Extended (arm64-v8a): 8.12.53  
 Music-Extended (arm-v7a): 8.12.53  
-Photos (arm64-v8a): 7.37.0.782944147  
-Photos (arm-v7a): 7.37.0.782944147  
+Photos (arm64-v8a): 7.38.0.785903005  
+Photos (arm-v7a): 7.38.0.785903005  
 Reddit-Anddea (arm64-v8a): 2025.12.1  
 Reddit-Anddea (arm-v7a): 2025.12.1  
 Reddit-Extended (arm64-v8a): 2025.12.1  
