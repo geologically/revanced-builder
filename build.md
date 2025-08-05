@@ -31,5 +31,5 @@ Patches: inotia00/patches-5.8.1.rvp
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.8.1)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.32.0.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.32.0)  
+Patches: revanced/patches-5.33.0.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.33.0)  
