@@ -1,4 +1,8 @@
-Twitter (arm64-v8a): 10.86.0-release.0  
+Music (arm64-v8a): 8.33.53  
+Music (arm-v7a): 8.33.53  
+Photos (arm-v7a): 7.42.0.797402755  
+Photos (arm64-v8a): 7.42.0.797402755  
+YouTube: 20.13.41  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
