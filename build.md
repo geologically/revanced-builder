@@ -1,5 +1,5 @@
-Photos (arm64-v8a): 7.43.0.799277913  
-Photos (arm-v7a): 7.43.0.799277913  
+Photos (arm-v7a): 7.43.0.800596475  
+Photos (arm64-v8a): 7.43.0.800596475  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
