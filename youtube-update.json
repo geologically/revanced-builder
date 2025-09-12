@@ -1,6 +1,6 @@
 {
   "version": "v20.13.41 (patches 5.35.0)",
-  "versionCode": 45,
-  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/45/youtube-revanced-magisk-v20.13.41-all.zip",
+  "versionCode": 48,
+  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/48/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/geologically/revanced-builder/update/build.md"
 }
