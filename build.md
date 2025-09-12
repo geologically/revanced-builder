@@ -1,12 +1,10 @@
-Twitch (arm64-v8a): 26.0.2  
-Twitch (arm-v7a): 26.0.2  
-Twitter (arm-v7a): 11.20.0-release.0  
-Twitter (arm64-v8a): 11.20.0-release.0  
+Duolingo-Hoodles (arm64-v8a): 6.47.6  
+Duolingo-Hoodles (arm-v7a): 6.47.6  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
 [revanced-builder](https://github.com/geologically/revanced-builder)
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.35.0.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.35.0)  
+CLI: revanced/revanced-cli-5.0.1-all.jar  
+Patches: hoo-dles/patches-1.4.0.rvp  
+[Changelog](https://github.com/hoo-dles/revanced-custom-patches/releases/tag/v1.4.0)  
