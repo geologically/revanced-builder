@@ -1,4 +1,4 @@
-Duolingo (arm-v7a): 6.47.6  
+Duolingo: 6.47.6  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
