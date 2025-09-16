@@ -1,13 +1,13 @@
-Music-Extended (arm64-v8a): 8.30.54  
-Music-Extended (arm-v7a): 8.30.54  
-Reddit-Extended (arm64-v8a): 2025.12.1  
-Reddit-Extended (arm-v7a): 2025.12.1  
-YouTube-Extended: 19.47.53  
+Music (arm64-v8a): 7.29.52  
+Music (arm-v7a): 7.29.52  
+Photos (arm64-v8a): 7.45.0.804174563  
+Photos (arm-v7a): 7.45.0.804174563  
+YouTube: 20.13.41  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
 [revanced-builder](https://github.com/geologically/revanced-builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: inotia00/patches-5.11.1.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1)  
+Patches: revanced/patches-5.38.0.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.38.0)  
