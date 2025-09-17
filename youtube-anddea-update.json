@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches 3.12.0)",
-  "versionCode": 40,
-  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/40/youtube-revanced-anddea-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches 3.13.0)",
+  "versionCode": 59,
+  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/59/youtube-revanced-anddea-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/geologically/revanced-builder/update/build.md"
 }
