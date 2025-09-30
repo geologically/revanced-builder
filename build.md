@@ -1,8 +1,5 @@
-Music (arm64-v8a): 8.10.52  
-Music (arm-v7a): 8.10.52  
 Photos (arm64-v8a): 7.47.0.810631069  
 Photos (arm-v7a): 7.47.0.810631069  
-YouTube: 20.14.43  
 
 Install [microG](https://github.com/ReVanced/GmsCore/releases) for GApps  
 
