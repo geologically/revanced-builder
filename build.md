@@ -1,13 +1,13 @@
-Music-Anddea (arm64-v8a): 8.30.54  
-Music-Anddea (arm-v7a): 8.30.54  
-Reddit-Anddea (arm64-v8a): 2025.12.1  
-Reddit-Anddea (arm-v7a): 2025.12.1  
-YouTube-Anddea: 20.05.46  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
+Photos (arm64-v8a): 7.48.0.813334473  
+Photos (arm-v7a): 7.48.0.813334473  
+YouTube: 20.14.43  
 
 Install [microG](https://github.com/WSTxda/MicroG-RE/releases) for GApps  
 
 [revanced-builder](https://github.com/geologically/revanced-builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.14.0.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)  
+Patches: revanced/patches-5.42.1.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.42.1)  
