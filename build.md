@@ -1,18 +1,20 @@
-Duolingo (arm64-v8a): 6.52.4  
-Duolingo (arm-v7a): 6.52.4  
 Music (arm64-v8a): 8.10.52  
-Photos (arm64-v8a): 7.51.0.822217012  
-Photos (arm-v7a): 7.51.0.822217012  
-TikTok (arm64-v8a): 42.3.3  
-TikTok (arm-v7a): 42.3.3  
-Twitch (arm64-v8a): 26.6.0  
-Twitch (arm-v7a): 26.6.0  
-YouTube: 20.14.43  
+Music (arm-v7a): 8.10.52  
+Reddit-Extended (arm64-v8a): 2025.12.1  
+Reddit-Extended (arm-v7a): 2025.12.1  
 
-Install [microG](https://github.com/WSTxda/MicroG-RE/releases) for GApps  
+*Note:*  
+- Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest), required for Google APKs.  
+- Use [Zygisk Detach](https://github.com/j-hc/zygisk-detach) to stop Play Store from updating Modules.  
 
 [revanced-builder](https://github.com/geologically/revanced-builder)
   
+Patches: anddea/patches-3.14.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)
+
+Patches: inotia00/patches-5.12.1.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1)
+
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
 Patches: revanced/patches-5.44.0.rvp  
 [Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.44.0)  
