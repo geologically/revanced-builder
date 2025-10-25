@@ -1,4 +1,5 @@
-YouTube-Anddea: 20.05.46  
+Music-Anddea (arm64-v8a): 8.30.54  
+Music-Anddea (arm-v7a): 8.30.54  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest), required for Google APKs.  
