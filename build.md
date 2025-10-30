@@ -1,5 +1,10 @@
+Duolingo (arm64-v8a): 6.54.5  
+Duolingo (arm-v7a): 6.54.5  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
 Photos (arm64-v8a): 7.52.0.825653635  
 Photos (arm-v7a): 7.52.0.825653635  
+YouTube: 20.14.43  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest), required for Google APKs.  
