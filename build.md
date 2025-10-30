@@ -2,7 +2,6 @@ Music-Advanced (arm64-v8a): 8.30.54
 Music-Advanced (arm-v7a): 8.30.54  
 Reddit-Advanced (arm64-v8a): 2025.12.1  
 Reddit-Advanced (arm-v7a): 2025.12.1  
-Spotify-Advanced: 9.0.76.1115  
 YouTube-Advanced: 20.05.46  
 
 **Notes:**  
