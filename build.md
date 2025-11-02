@@ -13,5 +13,5 @@ YouTube-Advanced: 20.05.46
 **Telegram:** [ReVanced by Geologically](https://t.me/rvbygeo)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.15.0-dev.1.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.1)  
+Patches: anddea/patches-3.14.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)  
