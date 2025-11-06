@@ -1,8 +1,11 @@
-Music-Advanced (arm64-v8a): 8.30.54  
-Music-Advanced (arm-v7a): 8.30.54  
-Reddit-Advanced (arm64-v8a): 2025.12.1  
-Reddit-Advanced (arm-v7a): 2025.12.1  
-YouTube-Advanced: 20.05.46  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
+Photos (arm64-v8a): 7.53.0.827222094  
+Photos (arm-v7a): 7.53.0.827222094  
+ProtonMail: 4.15.0  
+SamsungRadio (arm64-v8a): 12.4.00.7  
+SamsungRadio (arm-v7a): 12.4.00.7  
+YouTube: 20.14.43  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest), required for Google APKs.  
@@ -12,5 +15,5 @@ YouTube-Advanced: 20.05.46
 **Telegram:** [ReVanced by Geologically](https://t.me/rvbygeo)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.15.0-dev.1.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.1)  
+Patches: revanced/patches-5.46.0-dev.3.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0-dev.3)  
