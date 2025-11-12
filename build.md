@@ -1,7 +1,7 @@
 Music (arm64-v8a): 8.10.52  
 Music (arm-v7a): 8.10.52  
-Photos (arm64-v8a): 7.53.0.827222094  
-Photos (arm-v7a): 7.53.0.827222094  
+Photos (arm64-v8a): 7.54.0.830914249  
+Photos (arm-v7a): 7.54.0.830914249  
 ProtonMail: 4.15.0  
 SamsungRadio (arm64-v8a): 12.4.00.7  
 SamsungRadio (arm-v7a): 12.4.00.7  
@@ -15,5 +15,5 @@ YouTube: 20.14.43
 **Telegram:** [ReVanced by Geologically](https://t.me/rvbygeo)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.47.0-dev.3.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.47.0-dev.3)  
+Patches: revanced/patches-5.47.0-dev.4.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.47.0-dev.4)  

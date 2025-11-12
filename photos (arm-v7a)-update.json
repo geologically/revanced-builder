@@ -1,6 +1,6 @@
 {
-  "version": "v7.53.0.827222094 (patches dev.3)",
-  "versionCode": 50,
-  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/50/photos-revanced-magisk-v7.53.0.827222094-arm-v7a.zip",
+  "version": "v7.54.0.830914249 (patches dev.4)",
+  "versionCode": 51,
+  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/51/photos-revanced-magisk-v7.54.0.830914249-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/geologically/revanced-builder/update/build.md"
 }
