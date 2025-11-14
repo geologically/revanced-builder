@@ -1,8 +1,5 @@
-Music-Extended (arm64-v8a): 8.30.54  
-Music-Extended (arm-v7a): 8.30.54  
-Reddit-Extended (arm64-v8a): 2025.12.1  
-Reddit-Extended (arm-v7a): 2025.12.1  
-YouTube-Extended: 20.05.46  
+ProtonMail: 4.15.0  
+Twitch: 25.3.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest), required for Google APKs.  
@@ -12,5 +9,5 @@ YouTube-Extended: 20.05.46
 **Telegram:** [ReVanced by Geologically](https://t.me/rvbygeo)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: inotia00/patches-5.13.1-dev.4.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1-dev.4)  
+Patches: revanced/patches-5.46.0.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0)  
