@@ -1,13 +1,16 @@
-ProtonMail: 4.15.0  
-Twitch: 25.3.0  
+Music-Advanced (arm64-v8a): 8.30.54  
+Music-Advanced (arm-v7a): 8.30.54  
+Reddit-Advanced (arm64-v8a): 2025.12.1  
+Reddit-Advanced (arm-v7a): 2025.12.1  
+YouTube-Advanced: 20.05.46  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest), required for Google APKs.  
 • Use [Zygisk Detach](https://github.com/j-hc/zygisk-detach) to stop Play Store from updating Modules.  
 
 **GitHub:** [ReVanced Builder](https://github.com/geologically/revanced-builder)  
-**Telegram:** [ReVanced by Geologically](https://t.me/rvbygeo)
+**Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.46.0.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0)  
+Patches: anddea/patches-3.15.0-dev.1.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.1)  
