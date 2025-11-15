@@ -11,5 +11,5 @@ Reddit-Extended (arm-v7a): 2025.12.1
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: inotia00/patches-5.13.1.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1)  
+Patches: inotia00/patches-5.13.1-dev.5.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1-dev.5)  
