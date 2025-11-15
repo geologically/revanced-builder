@@ -2,6 +2,7 @@ Music-Extended (arm64-v8a): 8.30.54
 Music-Extended (arm-v7a): 8.30.54  
 Reddit-Extended (arm64-v8a): 2025.12.1  
 Reddit-Extended (arm-v7a): 2025.12.1  
+YouTube-Extended: 20.05.46  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
