@@ -1,6 +1,5 @@
-Music-Advanced (arm64-v8a): 8.30.54  
-Music-Advanced (arm-v7a): 8.30.54  
-YouTube-Advanced: 20.05.46  
+Reddit-Advanced: 2025.12.1  
+Reddit-Extended: 2025.12.1  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -10,5 +9,8 @@ YouTube-Advanced: 20.05.46
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.15.0-dev.3.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.3)  
+Patches: anddea/patches-3.14.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)
+
+Patches: inotia00/patches-5.13.1.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1)  
