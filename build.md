@@ -1,4 +1,9 @@
 GoogleRecorder: 4.2.20250717.794013168  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
+Photos (arm64-v8a): 7.55.0.835314738  
+Photos (arm-v7a): 7.55.0.835314738  
+YouTube: 20.14.43  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -8,5 +13,5 @@ GoogleRecorder: 4.2.20250717.794013168
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.46.0.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0)  
+Patches: revanced/patches-5.47.0-dev.6.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.47.0-dev.6)  
