@@ -1,11 +1,6 @@
-Duolingo: 6.54.5  
-GoogleRecorder: 4.2.20251104.839575635  
-Lightroom: 9.3.0  
-ProtonMail: 4.15.0  
-SamsungRadio: 12.4.00.7  
-TikTok: 36.5.4  
-Twitch: 25.3.0  
-Twitter: 10.86.0-release.0  
+Music-Extended (arm64-v8a): 8.30.54  
+Music-Extended (arm-v7a): 8.30.54  
+YouTube-Extended: 20.05.46  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -15,5 +10,5 @@ Twitter: 10.86.0-release.0
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.46.0.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0)  
+Patches: inotia00/patches-5.14.1-dev.2.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.14.1-dev.2)  
