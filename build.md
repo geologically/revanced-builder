@@ -1,8 +1,11 @@
-Music (arm64-v8a): 8.10.52  
-Music (arm-v7a): 8.10.52  
-Photos (arm64-v8a): 7.55.0.835314738  
-Photos (arm-v7a): 7.55.0.835314738  
-YouTube: 20.14.43  
+Duolingo: 6.54.5  
+GoogleRecorder: 4.2.20251104.839575635  
+Lightroom: 9.3.0  
+ProtonMail: 4.15.0  
+SamsungRadio: 12.4.00.7  
+TikTok: 36.5.4  
+Twitch: 25.3.0  
+Twitter: 10.86.0-release.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -12,5 +15,5 @@ YouTube: 20.14.43
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: revanced/patches-5.47.0-dev.7.rvp  
-[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.47.0-dev.7)  
+Patches: revanced/patches-5.46.0.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.46.0)  
