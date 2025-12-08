@@ -1,6 +1,6 @@
 {
   "version": "v4.2.20251104.839575635 (patches 5.46.0)",
-  "versionCode": 72,
-  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/72/googlerecorder-revanced-magisk-v4.2.20251104.839575635-arm64-v8a.zip",
+  "versionCode": 74,
+  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/74/googlerecorder-revanced-magisk-v4.2.20251104.839575635-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/geologically/revanced-builder/update/build.md"
 }
