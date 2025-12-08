@@ -1,4 +1,10 @@
-ProtonVPN: 5.14.76.0  
+Duolingo: 6.54.5  
+Lightroom: 9.3.0  
+ProtonMail: 4.15.0  
+SamsungRadio: 12.4.00.7  
+TikTok: 36.5.4  
+Twitch: 25.3.0  
+Twitter: 10.86.0-release.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
