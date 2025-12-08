@@ -1,8 +1,4 @@
-GoogleRecorder: 4.2.20251104.839575635  
-Music (arm64-v8a): 8.10.52  
-Music (arm-v7a): 8.10.52  
-Photos (arm64-v8a): 7.56.0.840348406  
-YouTube: 20.14.43  
+ProtonVPN: 5.14.76.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
