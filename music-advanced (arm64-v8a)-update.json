@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches dev.3)",
-  "versionCode": 65,
-  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/65/music-revanced-advanced-magisk-v8.30.54-arm64-v8a.zip",
+  "version": "v8.30.54 (patches dev.4)",
+  "versionCode": 80,
+  "zipUrl": "https://github.com/geologically/revanced-builder/releases/download/80/music-revanced-advanced-magisk-v8.30.54-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/geologically/revanced-builder/update/build.md"
 }
