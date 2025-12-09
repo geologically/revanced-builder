@@ -1,4 +1,6 @@
-YouTube-LisoUseInAIKyrios: 20.21.37  
+Music-Advanced (arm64-v8a): 8.30.54  
+Music-Advanced (arm-v7a): 8.30.54  
+YouTube-Advanced: 20.05.46  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -7,6 +9,6 @@ YouTube-LisoUseInAIKyrios: 20.21.37
 **GitHub:** [ReVanced Builder](https://github.com/geologically/revanced-builder)  
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
-CLI: LisoUseInAIKyrios/revanced-cli-v6.0.0-dev.7-all.jar  
-Patches: LisoUseInAIKyrios/patches-1.0.0-dev.6.rvp  
-[Changelog](https://github.com/LisoUseInAIKyrios/revanced-patches/releases/tag/v1.0.0-dev.6)  
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: anddea/patches-3.15.0-dev.5.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.5)  
