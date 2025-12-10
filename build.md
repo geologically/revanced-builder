@@ -1,8 +1,8 @@
 Music (arm-v7a): 8.10.52  
 Music (arm64-v8a): 8.10.52  
 GoogleRecorder: 4.2.20251118.834471379  
-Photos (arm64-v8a): 7.56.0.841861572  
-Photos (arm-v7a): 7.56.0.841861572  
+Photos (arm64-v8a): 7.57.0.841954949  
+ProtonVPN: 5.14.76.0  
 YouTube: 20.14.43  
 
 **Notes:**  
@@ -13,5 +13,5 @@ YouTube: 20.14.43
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.46.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.46.0)  
+Patches: ReVanced/patches-5.47.0-dev.13.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0-dev.13)  
