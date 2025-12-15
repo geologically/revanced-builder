@@ -1,11 +1,10 @@
-Duolingo: 6.54.5  
-Lightroom: 9.3.0  
-ProtonMail: 4.15.0  
-SamsungRadio: 12.4.00.7  
-Spotify: 9.0.96.819  
-TikTok: 36.5.4  
-Twitch: 25.3.0  
-Twitter: 10.86.0-release.0  
+GoogleRecorder: 4.2.20251118.834471379  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
+Photos (arm64-v8a): 7.57.0.843750501  
+Photos (arm-v7a): 7.57.0.843750501  
+ProtonVPN: 5.14.76.0  
+YouTube: 20.14.43  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
