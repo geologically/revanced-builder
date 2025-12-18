@@ -13,5 +13,5 @@ YouTube: 20.14.43
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.47.0-dev.18.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0-dev.18)  
+Patches: ReVanced/patches-5.47.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
