@@ -1,5 +1,9 @@
-Twitter-Piko (arm64-v8a): 11.47.0-release.0  
-Twitter-Piko (arm-v7a): 11.47.0-release.0  
+GoogleRecorder: 4.2.20251118.834471379  
+Music (arm64-v8a): 8.10.52  
+Music (arm-v7a): 8.10.52  
+Photos (arm64-v8a): 7.57.0.843750501  
+Photos (arm-v7a): 7.57.0.843750501  
+YouTube: 20.14.43  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -9,5 +13,5 @@ Twitter-Piko (arm-v7a): 11.47.0-release.0
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: crimera/patches-2.0.0-dev.18.rvp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0-dev.18)  
+Patches: ReVanced/patches-5.47.0-dev.17.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0-dev.17)  
