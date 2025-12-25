@@ -10,5 +10,5 @@ YouTube-Music-Extended (arm-v7a): 8.30.54
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: inotia00/patches-5.14.1-dev.7.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.14.1-dev.7)  
+Patches: inotia00/patches-5.14.1-dev.8.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.14.1-dev.8)  
