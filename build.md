@@ -1,6 +1,10 @@
-YouTube-Advanced: 20.05.46  
-YouTube-Music-Advanced (arm64-v8a): 8.30.54  
-YouTube-Music-Advanced (arm-v7a): 8.30.54  
+Google-Photos (arm64-v8a): 7.57.0.843750501  
+Google-Photos (arm-v7a): 7.57.0.843750501  
+Google-Recorder: 4.2.20251118.834471379  
+Proton-VPN: 5.14.87.0  
+YouTube: 20.14.43  
+YouTube-Music (arm64-v8a): 8.10.52  
+YouTube-Music (arm-v7a): 8.10.52  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -10,5 +14,5 @@ YouTube-Music-Advanced (arm-v7a): 8.30.54
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.15.0-dev.8.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.8)  
+Patches: ReVanced/patches-5.48.0-dev.3.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0-dev.3)  
