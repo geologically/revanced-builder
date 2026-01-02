@@ -1,4 +1,5 @@
 YouTube-Morphe: 20.37.48  
+YouTube-Music-Morphe (arm64-v8a): 8.37.56  
 YouTube-Music-Morphe (arm-v7a): 8.37.56  
 
 **Notes:**  
