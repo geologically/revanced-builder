@@ -1,10 +1,6 @@
-Google-Photos (arm64-v8a): 7.57.0.843750501  
-Google-Photos (arm-v7a): 7.57.0.843750501  
-Google-Recorder: 4.2.20251118.834471379  
-Proton-VPN: 5.14.87.0  
-YouTube: 20.14.43  
-YouTube-Music (arm64-v8a): 8.10.52  
-YouTube-Music (arm-v7a): 8.10.52  
+YouTube-Morphe: 20.37.48  
+YouTube-Music-Morphe (arm64-v8a): 8.37.56  
+YouTube-Music-Morphe (arm-v7a): 8.37.56  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -13,6 +9,8 @@ YouTube-Music (arm-v7a): 8.10.52
 **GitHub:** [ReVanced Builder](https://github.com/geologically/revanced-builder)  
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.47.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
+CLI: MorpheApp/morphe-cli-1.0.0-all.jar  
+Patches: MorpheApp/patches-1.2.1-dev.1.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.2.1-dev.1)
+
+CLI: MorpheApp/morphe-cli-1.0.0-all.jar    
