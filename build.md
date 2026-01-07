@@ -1,4 +1,6 @@
 Lightroom: 9.3.0  
+Proton-Mail: 4.15.0  
+Samsung-Radio: 12.4.00.7  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
