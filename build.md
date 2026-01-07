@@ -14,5 +14,5 @@ YouTube-Music (arm-v7a): 8.10.52
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.48.0-dev.8.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0-dev.8)  
+Patches: ReVanced/patches-5.47.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
