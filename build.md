@@ -1,6 +1,5 @@
-YouTube-Advanced: 20.05.46  
-YouTube-Music-Advanced (arm64-v8a): 8.30.54  
-YouTube-Music-Advanced (arm-v7a): 8.30.54  
+Twitter-Piko (arm64-v8a): 11.53.0-release.0  
+Twitter-Piko (arm-v7a): 11.53.0-release.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -10,5 +9,5 @@ YouTube-Music-Advanced (arm-v7a): 8.30.54
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.15.0-dev.9.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.9)  
+Patches: crimera/patches-2.0.0-dev.20.rvp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0-dev.20)  
