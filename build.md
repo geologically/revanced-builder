@@ -1,6 +1,4 @@
-YouTube-Morphe: 20.37.48  
-YouTube-Music-Morphe (arm64-v8a): 8.37.56  
-YouTube-Music-Morphe (arm-v7a): 8.37.56  
+Reddit-ReVanced-Privacy: 2026.02.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -9,8 +7,6 @@ YouTube-Music-Morphe (arm-v7a): 8.37.56
 **GitHub:** [ReVanced Builder](https://github.com/geologically/revanced-builder)  
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
-CLI: MorpheApp/morphe-cli-1.0.0-all.jar  
-Patches: MorpheApp/patches-1.3.1-dev.4.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.3.1-dev.4)
-
-CLI: MorpheApp/morphe-cli-1.0.0-all.jar    
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: jkennethcarino/patches-4.5.0.rvp  
+[Changelog](https://github.com/jkennethcarino/privacy-revanced-patches/releases/tag/v4.5.0)  
