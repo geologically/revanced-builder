@@ -1,6 +1,4 @@
-YouTube-Morphe: 20.37.48  
-YouTube-Music-Morphe (arm64-v8a): 8.37.56  
-YouTube-Music-Morphe (arm-v7a): 8.37.56  
+Reddit-Morphe-Extended: 2025.52.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/WSTxda/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -10,7 +8,5 @@ YouTube-Music-Morphe (arm-v7a): 8.37.56
 **Telegram:** [ReVanced Builder](https://t.me/revanced_builder)
   
 CLI: MorpheApp/morphe-cli-1.0.0-all.jar  
-Patches: MorpheApp/patches-1.3.1-dev.1.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.3.1-dev.1)
-
-CLI: MorpheApp/morphe-cli-1.0.0-all.jar    
+Patches: wchill/patches-5.15.0.mpp  
+[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.15.0)  
