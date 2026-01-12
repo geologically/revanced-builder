@@ -10,7 +10,7 @@ YouTube-Music-Morphe (arm-v7a): 8.37.56
 **Telegram:** [ReVanced Builder](https://t.me/rvb27)
   
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
-Patches: MorpheApp/patches-1.5.0-dev.1.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.5.0-dev.1)
+Patches: MorpheApp/patches-1.4.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.4.0)
 
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar    
