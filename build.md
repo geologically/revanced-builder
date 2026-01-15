@@ -1,4 +1,10 @@
-reddit-rvx-morphed: 2025.52.0  
+duolingo-revanced: 6.54.5  
+lightroom-revanced: 9.3.0  
+proton-mail-revanced: 4.15.0  
+samsung-radio-revanced: 12.4.00.7  
+tiktok-revanced: 36.5.4  
+twitch-revanced: 25.3.0  
+twitter-revanced: 10.86.0-release.0  
 
 **Notes:**  
 • Install [MicroG](https://github.com/MorpheApp/MicroG-RE/releases/latest/download/microg-release.apk), required for Google APKs.  
@@ -7,6 +13,6 @@ reddit-rvx-morphed: 2025.52.0
 **GitHub:** [ReVanced Builder](https://github.com/nullcpy/rvb)  
 **Telegram:** [ReVanced Builder](https://t.me/rvb27)
   
-CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
-Patches: wchill/patches-5.15.2-dev.1.mpp  
-[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.15.2-dev.1)  
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.47.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
