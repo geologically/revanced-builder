@@ -18,12 +18,12 @@ youtube-rvx-morphed: 20.05.46
 **Telegram:** [ReVanced Builder](https://t.me/rvb27)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.48.0-dev.13.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0-dev.13)
+Patches: ReVanced/patches-5.48.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)
 
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
-Patches: wchill/patches-5.15.2-dev.2.mpp  
-[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.15.2-dev.2)
+Patches: wchill/patches-5.15.2.mpp  
+[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.15.2)
 
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
 CLI: MorpheApp/morphe-cli-1.1.0-all.jar    
