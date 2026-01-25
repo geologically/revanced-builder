@@ -1,6 +1,6 @@
 {
-  "version": "v20.37.48 (patches 1.7.0.mpp)",
-  "versionCode": 190,
-  "zipUrl": "https://github.com/nullcpy/rvb/releases/download/190/youtube-morphe-magisk-v20.37.48-all.zip",
+  "version": "v20.40.45 (patches 1.8.0.mpp)",
+  "versionCode": 200,
+  "zipUrl": "https://github.com/nullcpy/rvb/releases/download/200/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/nullcpy/rvb/update/build.md"
 }
